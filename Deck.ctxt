@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Deck()
+comment0.text=\r\n\ Creates\ a\ deck\ with\ the\ full\ set\ of\ Sorry\ cards.\r\n
+comment1.params=index
+comment1.target=Card\ get(int)
+comment1.text=\r\n\ A\ getter\ to\ choose\ a\ card\ from\ the\ deck.\r\n\ @param\ Index\ to\ choose\ a\ card\ from.\r\n\ @return\ Card\ at\ the\ index\ in\ the\ ArrayList\ of\ cards.\r\n
+comment2.params=
+comment2.target=int\ getSize()
+comment2.text=\r\n\ Returns\ the\ current\ size\ of\ the\ deck\ (the\ cards\ ArrayList).\r\n
+comment3.params=i
+comment3.target=void\ remove(int)
+comment3.text=\r\n\ Removes\ a\ card\ from\ the\ deck\ (the\ cards\ ArrayList).\r\n\ @param\ int\ index\ which\ to\ remove\ card\ in\ the\ array\r\n
+numComments=4

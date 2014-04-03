@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=p\ b
+comment0.target=void\ specialFunction(Pawn,\ SorryBoard)
+comment0.text=\r\n\ Tells\ a\ given\ SorryBoard\ b\ to\ move\ given\ Pawn\ p\ to\ the\ first\ tile\ in\ the\ track\ if\ the\ pawn\ was\ on\ a\ StartTile.\r\n\ Otherwise,\ the\ board\ will\ move\ the\ pawn\ 2\ spaces.\r\n\ @param\ Pawn\ manipulate\ given\ pawn.\r\n\ @param\ SorryBoard\ choose\ the\ board\ on\ which\ to\ manipulate\ pawn.\r\n
+comment1.params=p\ b
+comment1.target=void\ act(Pawn,\ SorryBoard)
+comment1.text=\r\n\ Overrides\ act\ to\ call\ specialFunction.\r\n
+comment2.params=
+comment2.target=TwoCard()
+comment2.text=\r\n\ Creates\ a\ TwoCard\ object\ with\ moveValue\ 2\ and\ an\ appropriate\ description.\r\n
+numComments=3

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=m\ d
+comment0.target=GenericCard(int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\r\n\ @param\ int\ value\ of\ the\ amount\ of\ spaces\ a\ pawn\ moves.\r\n\ @param\ String\ description\ of\ the\ card's\ description.\r\n
+numComments=1

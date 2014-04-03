@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=p\ b
+comment0.target=void\ specialFunction(Pawn,\ SorryBoard)
+comment1.params=p\ b
+comment1.target=void\ act(Pawn,\ SorryBoard)
+comment1.text=\r\n\ Overrides\ act\ to\ call\ specialFunction.\r\n
+comment2.params=
+comment2.target=ElevenCard()
+comment2.text=\r\n\ Creates\ a\ ElevenCard\ object\ with\ moveValue\ 11\ and\ an\ appropriate\ description.\r\n
+numComments=3

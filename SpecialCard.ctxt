@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=p\ b
+comment0.target=void\ specialFunction(Pawn,\ SorryBoard)
+comment0.text=\r\n\ Tells\ a\ given\ SorryBoard\ b\ to\ manipulate\ given\ Pawn\ p.\r\n\ @param\ Pawn\ manipulate\ given\ pawn.\r\n\ @param\ SorryBoard\ choose\ the\ board\ on\ which\ to\ manipulate\ pawn.\r\n
+numComments=1

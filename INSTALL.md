@@ -1,0 +1,1 @@
+This is a BlueJ project.  Install BlueJ from http://www.bluej.org/. The project can be open and ran using it.

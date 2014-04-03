@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=void\ setDescription(java.lang.String)
+comment0.text=\r\n\ Sets\ the\ description\ for\ the\ card.\r\n\ @param\ String\ of\ the\ card's\ description.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getDescription()
+comment1.text=\r\n\ Gets\ the\ description\ for\ the\ card.\r\n\ @return\ String\ of\ the\ card's\ description.\r\n
+comment2.params=i
+comment2.target=void\ setMoveValue(int)
+comment2.text=\r\n\ Sets\ the\ moveValue\ for\ the\ card.\r\n\ @param\ int\ value\ of\ the\ amount\ of\ spaces\ a\ pawn\ moves.\r\n
+comment3.params=
+comment3.target=int\ getMoveValue()
+comment3.text=\r\n\ Gets\ the\ moveValue\ for\ the\ card.\r\n\ @return\ int\ value\ of\ the\ amount\ of\ spaces\ a\ pawn\ moves.\r\n
+comment4.params=p\ b
+comment4.target=void\ act(Pawn,\ SorryBoard)
+comment4.text=\r\n\ Tells\ a\ given\ SorryBoard\ b\ to\ move\ given\ Pawn\ p\ moveValue\ spaces.\r\n\ @param\ Pawn\ manipulate\ given\ pawn.\r\n\ @param\ SorryBoard\ choose\ the\ board\ on\ which\ to\ manipulate\ pawn.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Returns\ the\ string\ value\ for\ the\ Card\ object.\r\n\ @return\ string\ that\ returns\ the\ class\ type\ and\ moveValue.\r\n
+numComments=6

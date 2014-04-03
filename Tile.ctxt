@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=void\ setColor(int)
+comment0.text=\r\n\ Sets\ the\ color\ of\ the\ tile,\ if\ applicaable.\r\n\ @param\ int\ the\ int\ representation\ of\ the\ color\r\n
+comment1.params=
+comment1.target=int\ getColor()
+comment1.text=\r\n\ Gets\ the\ color\ of\ the\ tile,\ if\ applicaable.\r\n\ @return\ int\ the\ int\ representation\ of\ the\ color\r\n
+comment2.params=t
+comment2.target=void\ setTaken(boolean)
+comment2.text=\r\n\ Sets\ the\ state\ of\ the\ tile\ (whether\ it\ is\ occupied)\r\n\ @param\ boolean\ whether\ the\ tile\ is\ taken\ or\ not\r\n
+comment3.params=
+comment3.target=boolean\ getTaken()
+comment3.text=\r\n\ Gets\ the\ state\ of\ the\ tile\ (whether\ it\ is\ occupied)\r\n\ @return\ boolean\ whether\ the\ tile\ is\ taken\ or\ not\r\n
+numComments=4

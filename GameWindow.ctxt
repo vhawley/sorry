@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameWindow()
+comment1.params=
+comment1.target=int\ getPlayerNum()
+comment2.params=
+comment2.target=void\ startNewGame()
+numComments=3
