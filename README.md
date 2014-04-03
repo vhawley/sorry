@@ -5,5 +5,7 @@ How to Play
 1. When it is your turn, press “Draw card” to draw a card.
 2. If the card you picked allows you to move a pawn, click on a pawn to manipulate it according to the card you drew.
 
+Credit to Parker Brothers and Hasbro for the original game.
+
 
 ![Alt text](/sorry.png "Screenshot")
